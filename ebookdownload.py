@@ -61,3 +61,4 @@ with requests.Session() as c:
         print("Downloaded", name, str(counter+1) + "/" + str(amount))
     print("Finished downloading.")
     print("Bye.")
+
